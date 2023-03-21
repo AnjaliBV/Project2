@@ -1,0 +1,3 @@
+git remote add origin https://github.com/bhasker-manikyala/edureka-project.git
+git branch -M Master1
+git push -u origin Master1
